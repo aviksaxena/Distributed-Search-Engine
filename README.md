@@ -1,5 +1,8 @@
 # Distributed Web Crawler and Search Engine
 
+ A scalable full-stack search engine that crawls websites, indexes content, and ranks results using PageRank + TF-IDF, built with FastAPI, Elasticsearch, Redis, and Next.js.
+ Designed to simulate how real-world search engines work — including distributed crawling, task queues, and real-time indexing.
+
 A production-level distributed web crawler and search engine built with:
 - **Backend**: FastAPI + Elasticsearch
 - **Frontend**: Next.js 16 with React
